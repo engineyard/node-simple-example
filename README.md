@@ -1,4 +1,4 @@
 # Node simple example
 
-Example that uses [Express](http://express.io) framework to run a simple
+Example that uses [Express](http://expressjs.com) framework to run a simple
 Node.js application.
